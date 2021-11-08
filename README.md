@@ -1,4 +1,4 @@
-# Raspberry-Pi-32k-EEPROM-Programmer-
+# Raspberry-Pi-32k-EEPROM-Programmer
 Raspberry PI eeprom writer code
 This is the python code for my 32k EEPROM Programmer. 
 
