@@ -49,7 +49,7 @@ def save_as_file():
             file_save.close()
 
 def Upload_File():
-    file_name = filedialog.askopenfilename(initialdir = "/home/pi",title = "Open",filetypes = (("bin","*.bin"),("all files","*.*")))
+    file_name = filedialog.askopenfilename(initialdir = "/home/pi",title = "Open",filetypes = (("compiled x86 code","*.bin *.rom"),("all files","*.*")))
     if file_name:
         file_open = open(file_name, mode='rb')
         file_data = file_open.read()
