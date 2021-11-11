@@ -2,7 +2,9 @@
 Raspberry PI eeprom writer code
 ![alt text](/images/20211111_121409.jpg)
 
-This is the python code for my 32k EEPROM Programmer. 
+This is the [python code](https://github.com/homebrew8088/Raspberry-Pi-32k-EEPROM-Programmer/tree/main/py) for my 32k EEPROM Programmer. 
+
+I have included my [Kicad Files](https://github.com/homebrew8088/Raspberry-Pi-32k-EEPROM-Programmer/tree/main/Kicad) where you can find the schematics and PCB layout.
 
 https://www.homebrew8088.com/home/28c256-eeprom-writer
 
