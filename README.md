@@ -1,5 +1,7 @@
 # Raspberry-Pi-32k-EEPROM-Programmer
 Raspberry PI eeprom writer code
+![alt text](/images/20211111_121409.jpg)
+
 This is the python code for my 32k EEPROM Programmer. 
 
 https://www.homebrew8088.com/home/28c256-eeprom-writer
