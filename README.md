@@ -4,7 +4,9 @@
 
 \
 \
-This is the [python code](https://github.com/homebrew8088/Raspberry-Pi-32k-EEPROM-Programmer/tree/main/py) for my 32k EEPROM Programmer. 
+This is a repository for my Rapberry Pi 32k EEPROM Programmer.
+
+The [code](https://github.com/homebrew8088/Raspberry-Pi-32k-EEPROM-Programmer/tree/main/py) is written in python. To run it from the command line type "python3 32k.py"
 
 I have included my [Kicad Files](https://github.com/homebrew8088/Raspberry-Pi-32k-EEPROM-Programmer/tree/main/Kicad) where you can find the schematics and PCB layout.
 
